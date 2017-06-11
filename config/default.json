@@ -1,5 +1,11 @@
 {
   "api": {
-    "url": "https://poloniex.com/public"
+    "url": {
+      "public": "https://poloniex.com/public",
+      "trading": "https://poloniex.com/tradingApi"
+    }
+  },
+  "params": {
+    "totalBTC": 0.1
   }
 }

@@ -12,6 +12,7 @@
     "bluebird": "^3.5.0",
     "config": "^1.26.1",
     "debug": "^2.6.8",
+    "nonce": "^1.0.4",
     "superagent": "^3.5.2"
   }
 }
